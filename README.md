@@ -34,11 +34,4 @@ To explore the visualizations and insights generated from this analysis:
 
 This COVID-19 India Analysis project aims to provide valuable insights into the impact of the pandemic within India through detailed visualizations and analytics using Tableau Business Intelligence. By delving into the data specific to India, we aim to contribute towards a better understanding of the COVID-19 situation in the country.
 
-Thank you for exploring this project. Stay safe and informed!
-
-Citations:
-[1] https://community.tableau.com/s/question/0D54T00000C6pfwSAB/how-to-connect-live-data-of-covid-19-of-india-to-tableau
-[2] https://community.tableau.com/s/question/0D54T00000C5S4JSAV/covid19-india-story
-[3] https://www.linkedin.com/pulse/covid-19-india-dashboard-tableau-project-prashnnaki-gedam
-[4] https://github.com/gulshang7/Covid-19_Data_Analysis_using_Tableau_creating_Dashboards
-[5] https://www.linkedin.com/pulse/covid-19-data-analysis-visualization-tableau-jalakam-msc--6u6ie
+Thank you for exploring this project. 
